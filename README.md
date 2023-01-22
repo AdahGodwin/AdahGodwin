@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Godwin Adah
 - 👀 I’m interested in everything concerning web and mobile app development
-- 🌱 I’m currently learning Flutter and dart
+- 🌱 I’m currently improving on my Flutter and dart skills
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  -->
